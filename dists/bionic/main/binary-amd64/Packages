@@ -1,0 +1,14 @@
+Package: helloworld
+Version: 1.1.40
+Architecture: amd64
+Maintainer: Mar94oK <maxim.uvarenkov@gs-labs.ru>
+Priority: extra
+Section: utils
+Filename: pool/main/h/helloworld/helloworld_1.1.40_amd64.deb
+Size: 4280
+SHA256: df66de67baada52e1147b018f189538c82b1f25f87d944f11877250e4e7104a4
+SHA1: 4df30033e7e43807691b5cf0479add34bf6e1729
+MD5sum: 671fdbdd49c683ba1604abc01044c84a
+Description: A program that greets you. OTUS-Course HW-1
+ And obviously nothing else!
+
