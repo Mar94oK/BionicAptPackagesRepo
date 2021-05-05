@@ -22,3 +22,15 @@ SHA256: 7d88bf4d20fc6d06a321d5f10230de8f1399e4f2a490ac6d98fe54a14dc56665
 Description: A program that greets you. OTUS-Course HW-1
  And obviously nothing else!
 
+Package: helloworld
+Version: 1.1.72
+Architecture: amd64
+Maintainer: Mar94oK <maxim.uvarenkov@gs-labs.ru>
+Filename: ./helloworld_1.1.72_amd64.deb
+Size: 4276
+MD5sum: 02f6a63cb469e7d906b4f4f0c8d37545
+SHA1: 509d4a08faa5bab2fba44860761000e5ff2cc027
+SHA256: 3735a14a9123652b7abb934cdf74d73d444c337ed7c78f3fb107670551b3c0a9
+Description: A program that greets you. OTUS-Course HW-1
+ And obviously nothing else!
+
